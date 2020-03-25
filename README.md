@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi!
+
+Donald Trump is a totally idiot.
